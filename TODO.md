@@ -1,7 +1,7 @@
 # mini PASCAL Compiler
 
-### Analexical
--[] Types:
+## Analexical
+-[] Types:\\
     -[] int (16 bytes)
     -[] String (MaxSize = 50)
     -[] ident (MaxSize = 20)
@@ -44,11 +44,11 @@
     -[] CHAINE
     -[] NUM_LIGNE
     -[] 
-### Analsyntaxique
+##  Analsyntaxique
 
 
 
-### AnalSémantique
+## AnalSémantique
 
 
 ### Gestion D'erreur
