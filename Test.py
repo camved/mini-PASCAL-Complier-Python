@@ -9,5 +9,4 @@ class TestReader(unittest.TestCase):
         
     def test_get_content():
         
-    
-
+        return 
